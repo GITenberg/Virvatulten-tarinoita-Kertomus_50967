@@ -1,10 +1,16 @@
 _repo: Virvatulten-tarinoita-Kertomus_50967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Petersen, Marie
     gutenberg_agent_id: '46169'
     url: http://www.gutenberg.org/2009/agents/46169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50967#Virvatulten-tarinoita-Kertomus
 gutenberg_issued: '2016-01-19'
 gutenberg_type: Text
 identifiers:
